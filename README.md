@@ -1,31 +1,31 @@
 # ArtGalleryShop
 
-**ArtGalleryShop** is a FlutterFlow-based mobile application for an online boutique of artistic pieces, allowing users to browse, select, and purchase artworks directly from their smartphone.
+**ArtGalleryShop** est une application mobile créée avec FlutterFlow pour une boutique en ligne de pièces artistiques, permettant aux utilisateurs de parcourir, sélectionner et acheter des œuvres d'art directement depuis leur smartphone.
 
 ---
 
-## Features
-- Browse a wide range of art pieces  
-- Search and filter artworks by category or artist  
-- View detailed descriptions and images of each piece  
-- Add items to a shopping cart and place orders  
-- Secure user authentication and account management  
-- Admin panel for managing products and orders  
+## Fonctionnalités
+- Parcourir une large gamme d'œuvres d'art  
+- Rechercher et filtrer les œuvres par catégorie ou artiste  
+- Voir des descriptions détaillées et des images de chaque pièce  
+- Ajouter des articles au panier et passer des commandes  
+- Authentification sécurisée et gestion des comptes utilisateurs  
+- Panneau d'administration pour gérer les produits et les commandes  
 
 ---
 
 ## Installation
-1. Clone the repository:  
+1. Cloner le dépôt :  
    ```bash
    git clone https://github.com/haythem-abdellaoui/ArtGalleryShop.git
-2. Open the project in FlutterFlow or your preferred Flutter IDE.
-3. Run the app:
+2. Ouvrir le projet dans FlutterFlow ou votre IDE Flutter préféré.
+3. Lancer l'application :
    ```bash
    flutter pub get
    flutter run
 
-## Contributing
-1. Fork the repository
-2. Create a new branch
-3. Make your changes and commit
-4. Push to your branch and create a Pull Request
+## Contribution
+1. Forker le dépôt
+2. Créer une nouvelle branche
+3. Apporter vos modifications et les committer
+4. Pousser votre branche et créer une Pull Request
