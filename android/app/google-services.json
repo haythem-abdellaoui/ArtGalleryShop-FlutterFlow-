@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "125259234913",
+    "project_id": "artisto-9f0e3",
+    "storage_bucket": "artisto-9f0e3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125259234913:android:d8b03f0e50252b450f3420",
+        "android_client_info": {
+          "package_name": "com.mycompany.artisto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUV-XeCQNapWWdbA94hM7qqr36kYn32MM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
